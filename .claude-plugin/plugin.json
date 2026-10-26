@@ -11,5 +11,15 @@
   "homepage": "https://www.tacty.co",
   "repository": "https://github.com/jarquinz/tacty-claude-plugin",
   "license": "MIT",
-  "keywords": ["loyalty", "rewards", "nfc", "qr", "apple-wallet", "google-wallet", "small-business", "fidelizacion"]
+  "privacyPolicyUrl": "https://www.tacty.co/privacidad",
+  "keywords": [
+    "loyalty",
+    "rewards",
+    "nfc",
+    "qr",
+    "apple-wallet",
+    "google-wallet",
+    "small-business",
+    "fidelizacion"
+  ]
 }

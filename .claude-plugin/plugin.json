@@ -12,6 +12,9 @@
   "repository": "https://github.com/jarquinz/tacty-claude-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.tacty.co/privacidad",
+  "termsOfServiceUrl": "https://www.tacty.co/terminos",
+  "documentationUrl": "https://www.tacty.co/docs/asistentes",
+  "supportUrl": "mailto:hola@tacty.co",
   "keywords": [
     "loyalty",
     "rewards",

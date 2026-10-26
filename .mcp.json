@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tacty": {
+      "type": "http",
+      "url": "https://www.tacty.co/mcp"
+    }
+  }
+}

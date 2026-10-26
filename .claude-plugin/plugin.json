@@ -1,0 +1,15 @@
+{
+  "name": "tacty",
+  "displayName": "Tacty",
+  "version": "1.0.0",
+  "description": "Digital loyalty cards via NFC and QR, in Apple Wallet or Google Wallet. Claude creates the card, reads who is coming and who you are losing, and sends notices to your customers' cards after you confirm.",
+  "author": {
+    "name": "Central Digital Network LLC",
+    "email": "hola@tacty.co",
+    "url": "https://www.tacty.co"
+  },
+  "homepage": "https://www.tacty.co",
+  "repository": "https://github.com/jarquinz/tacty-claude-plugin",
+  "license": "MIT",
+  "keywords": ["loyalty", "rewards", "nfc", "qr", "apple-wallet", "google-wallet", "small-business", "fidelizacion"]
+}
